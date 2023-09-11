@@ -1,0 +1,1 @@
+Day-1 is nothing but introduction and installation of vs code and adding required extensions
