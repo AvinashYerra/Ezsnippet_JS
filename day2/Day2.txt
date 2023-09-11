@@ -1,0 +1,7 @@
+Day-2 is of few questions
+
+1.what is JS
+2.what is role of JS(functionality and interaction of website)
+3.apps built using JS(fb,whatsapp,vscode)
+4.versions(es-1,2,3,4,5,6)
+after 6 the js is called as modern Javascript.
